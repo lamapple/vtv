@@ -1,0 +1,45 @@
+"VTV": [
+
+
+	"VTV1": {
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv1.smil/playlist.m3u8",
+		"imageURL": "",
+		"name": "VTV1"
+	}
+
+	"VTV2": {
+		"hlsURL": "http://123.30.185.126/hls/vtv2.m3u8",
+		"imageURL": "",
+		"name": "VTV2"
+	}
+
+	"VTV3": {
+		"hlsURL": "http://123.30.185.126/hls/vtv3.m3u8",
+		"imageURL": "",
+		"name": "VTV3"
+	}
+
+	"VTV4": {
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv4.smil/playlist.m3u8",
+		"imageURL": "",
+		"name": "VTV4"
+	}
+
+	"VTV5": {
+		"hlsURL": "http://45.121.26.49:1935/live/_definst_/smil:vtv5.smil/playlist.m3u8",
+		"imageURL": "",
+		"name": "VTV5"
+	}
+
+	"VTV6 HD": {
+		"hlsURL": "http://113.185.19.171:8081/livedemo/vtv6hd-vtv-abr/playlist.m3u8",
+		"imageURL": "",
+		"name": "VTV6 HD"
+	}
+
+	"VTV8": {
+		"hlsURL": "http://znzjssjl.cdnviet.com/pnwjyhx/_definst_/livestream/chunklist.m3u8",
+		"imageURL": "",
+		"name": "VTV8"
+	}
+],
